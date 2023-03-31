@@ -9,7 +9,7 @@ scanf("%f",&R);
 
 A=pai*R*R;
 
-printf("%f",A);
+printf("%f",pai);
 
 
 
