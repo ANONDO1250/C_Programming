@@ -5,8 +5,8 @@ int main(){
 
 
 
-int a;
-scanf("%d",&a);
+long long int a;
+scanf("%lld",&a);
 
 long long int B;
 scanf("%lld",&B);
@@ -19,7 +19,7 @@ scanf("%s",&D);
 
 
 
-printf("%d\n",a);
+printf("%lld\n",a);
 
 printf("%lld\n",B);
 
