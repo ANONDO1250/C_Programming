@@ -1,2 +1,2 @@
 
-     else 
+                temp = arr[j];
