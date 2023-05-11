@@ -13,6 +13,10 @@ int main()
         }
         for(int j=1; j<=k; j++)
         {
+           if (i%2==0)
+           {
+            printf("^");
+           }
             printf("*");
         }
         s--;

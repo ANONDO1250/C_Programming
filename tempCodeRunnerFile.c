@@ -1,2 +1,1 @@
-
-                temp = arr[j];
+// Print '^'
